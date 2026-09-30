@@ -1,30 +1,3 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou [João Victor Eneias]
 
-💻 Desenvolvedor apaixonado por tecnologia  
-🚀 Criando projetos e aprendendo coisas novas todos os dias
-
-## 🛠️ Tecnologias
-
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- Python
-- Git e GitHub
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento Full Stack
-- APIs REST
-- Banco de dados
-- Arquitetura de software
-
-## 📌 Meus projetos
-
-Aqui você pode encontrar projetos pessoais, estudos e experimentos que estou desenvolvendo.
-
-## 📫 Entre em contato
-
-- 💼 LinkedIn
-- 📧 Email
-- 🌐 Meu site
+Sou do 2° ano do ensino médio e faço curso de desenvolvimento de sistemas
